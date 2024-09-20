@@ -494,8 +494,4 @@ x = setInterval(function() {
     init();
   }
 
-  // if (distance < 0) {
-  //     clearInterval(x);
-  //     console.log("happy birthday");
-  // }
 }, second);
